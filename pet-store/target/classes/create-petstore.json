@@ -1,0 +1,25 @@
+{
+  "petStoreName": "Tommy's Pet Shope",
+  "petStoreAddress": "100 Madison Lane",
+  "petStoreCity": "Hartland",
+  "petStoreState": "Michigan",
+  "petStoreZip": "48855",
+  "petStorePhone": "249-201-1260"
+  }
+  {
+  "petStoreName": "Wright Shope",
+  "petStoreAddress": "100 Wright Square",
+  "petStoreCity": "Savannah",
+  "petStoreState": "Georgia",
+  "petStoreZip": "31401",
+  "petStorePhone": "912-219-4431"
+  }
+    {
+  "petStoreName": "Pet Shoppe",
+  "petStoreAddress": "100 Main St",
+  "petStoreCity": "Brighton",
+  "petStoreState": "Michigan",
+  "petStoreZip": "48130",
+  "petStorePhone": "810-219-4431"
+  }
+  
